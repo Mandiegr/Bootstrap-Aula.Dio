@@ -19,13 +19,11 @@ img {
   display: flex;
   width: 200px;
   height: 200px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding-right: 30px;
+  margin-left: 3%;
+  
+  padding-left: 3%;
   padding-right: 20px;
   flex-direction: center;
-
- 
 }
 h5 {
   display: none;
@@ -36,7 +34,7 @@ h5 {
   flex-direction: center;
   width: 100%;
   padding-top: 5px;
-  margin-left: 4%;
+  margin-left: 3%;
 }
 
  #pikachu {
